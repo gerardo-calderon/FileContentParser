@@ -1,0 +1,6 @@
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\bin\Debug\Parser.dll
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\bin\Debug\Parser.pdb
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\bin\Debug\nunit.framework.dll
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\bin\Debug\nunit.framework.xml
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\obj\Debug\Parser.dll
+D:\_gc\development\Visual Studio 2017\FileContentParser\Parser\obj\Debug\Parser.pdb

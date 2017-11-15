@@ -1,0 +1,10 @@
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\ParserConsole.exe.config
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\ParserConsole.exe
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\ParserConsole.pdb
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\Parser.dll
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\nunit.framework.dll
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\Parser.pdb
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\bin\Debug\nunit.framework.xml
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\obj\Debug\ParserConsole.csprojResolveAssemblyReference.cache
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\obj\Debug\ParserConsole.exe
+D:\_gc\development\Visual Studio 2017\FileContentParser\ParserConsole\obj\Debug\ParserConsole.pdb
