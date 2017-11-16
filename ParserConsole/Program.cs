@@ -24,7 +24,7 @@ namespace ParserConsole
 
             //gather information about the files that we are going load
             List<FileMetadata> fileMetadataList = new List<FileMetadata>();
-            for (int arg = 0; arg < args.Length; arg++)
+            for (int arg = 0; arg < 3; arg++)
             {
                 try
                 {
